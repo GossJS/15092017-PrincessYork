@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE tablica PUBLIC "YorkJS" "http://kodaktor.ru/j/dtd_db557">
+
+<tablica>
+   <student>
+      <ocenka>test</ocenka>
+      <ocenka>test</ocenka>
+      <ocenka>test</ocenka>
+   </student>
+</tablica>

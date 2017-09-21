@@ -1,0 +1,5 @@
+Windows : 81
+Linux : 13
+Mac : 6
+IPhone : 4
+Others : 8

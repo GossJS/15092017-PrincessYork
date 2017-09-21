@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<!ELEMENT url (ips | pc | mobile)* >
+<!ELEMENT pc (platform)* >
+<!ELEMENT mobile (platform)* >
+<!ELEMENT ips (ip)* >
+
+<!ELEMENT ip (#PCDATA) >
+<!ELEMENT platform (#PCDATA) >
+
+<!ATTLIST ip addr CDATA #REQUIRED>
+<!ATTLIST ip frequency  CDATA #REQUIRED>
+
+<!ATTLIST platform name CDATA #REQUIRED>
+<!ATTLIST platform frequency  CDATA #REQUIRED>

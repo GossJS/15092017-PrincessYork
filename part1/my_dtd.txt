@@ -1,8 +1,8 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
 
-<!ELEMENT tablica (student)* >
-<!ELEMENT student (ocenka)* >
-<!ELEMENT ocenka (#PCDATA) >
+<!ELEMENT table (student)* >
+<!ELEMENT student (mark)* >
+<!ELEMENT mark (#PCDATA) >
 
 <!ATTLIST student name CDATA #REQUIRED>
-<!ATTLIST ocenka subject CDATA #REQUIRED>
+<!ATTLIST mark subject CDATA #REQUIRED>

@@ -1,20 +1,20 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
-<!DOCTYPE tablica PUBLIC "YorkJS" "http://kodaktor.ru/j/dtd_7fd1f">
+<!DOCTYPE table PUBLIC "YorkJS" "http://kodaktor.ru/j/dtd_7fd1f">
 
-<tablica>
+<table>
    <student name = "name">
-      <ocenka subject = "subject name">1</ocenka>
-      <ocenka subject = "subject name">2</ocenka>
-      <ocenka subject = "subject name">3</ocenka>
+      <mark subject = "subject name">1</mark>
+      <mark subject = "subject name">2</mark>
+      <mark subject = "subject name">3</mark>
    </student>
    <student name = "name">
-      <ocenka subject = "subject name">1</ocenka>
-      <ocenka subject = "subject name">2</ocenka>
-      <ocenka subject = "subject name">3</ocenka>
+      <mark subject = "subject name">1</mark>
+      <mark subject = "subject name">2</mark>
+      <mark subject = "subject name">3</mark>
    </student>
    <student name = "name">
-      <ocenka subject = "subject name">1</ocenka>
-      <ocenka subject = "subject name">2</ocenka>
-      <ocenka subject = "subject name">3</ocenka>
+      <mark subject = "subject name">1</mark>
+      <mark subject = "subject name">2</mark>
+      <mark subject = "subject name">3</mark>
    </student>
-</tablica>
+</table>

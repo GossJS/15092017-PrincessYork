@@ -1,0 +1,76 @@
+{
+	"table":
+	[
+		{
+			"student" : 
+			{
+				"name" : "Name 1",
+				"mark" :
+				[
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					},
+
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					},
+
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					}
+				]
+			}
+		},
+
+		{
+			"student" : 
+			{
+				"name" : "Name 1",
+				"mark" :
+				[
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					},
+
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					},
+
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					}
+				]
+			}
+		},
+
+		{
+			"student" : 
+			{
+				"name" : "Name 1",
+				"mark" :
+				[
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					},
+
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					},
+
+					{
+						"subject" : "subject 1",
+						"value" : 1
+					}
+				]
+			}
+		}
+	]
+}
